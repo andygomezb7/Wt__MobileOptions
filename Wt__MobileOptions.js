@@ -1,3 +1,12 @@
+/*
+*
+* @version 0.0.1 Wt__MobileOptions
+* @name Wt__MobileOptions
+* @author @AndyGomezB7 {@link http://github.com/andygomezb7}
+* @description Plugin para facilitar el funcionamiento en celulares de tu web, funciones para todo.
+*
+*/
+
 (function($){
 	/*
 	* Inicialización del plugin
