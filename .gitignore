@@ -1,5 +1,4 @@
 #IGNORE FOLDER TEST
-carpetaignorada/**
-!carpetaignorada/two_folder/
-!carpetaignorada/two_folder/api/**
-!carpetaignorada/two_folder/inc/**
+carpetaignorada/**/*
+!carpetaignorada/two_folder/inc
+!carpetaignorada/two_folder/api
